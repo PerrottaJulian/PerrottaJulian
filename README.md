@@ -1,14 +1,25 @@
-Hola, soy Julian Perrotta @PerrottaJulian - Estudiante de: UMET / Licenciatura en Informatica + programacion de manera autodidacta. Amo la tecnologia, computadoras , videojuegos y demas -
-Tengo ganas de aprender mas y mas y en un futuro no muy lejano profesionalizarme en el mundo de la programacion
-
-Mail: perrotta.julian12@gmail.com
-Instagram: @juliannperrotta
-
-Hi, I'm @PerrottaJulian - Currently studying: I.T. at UMET + programming on my own - My passions are tecnology, computers, videogames and else - 
-I´m looking foward to get deeper into this world and keep learning.
+# 💫 About Me:
+🖥️ Currently working on the IT team of ESGA, Argentine Air Force<br><br>📚 On the middle of my IT carreer<br><br>🌱 Growing up as as professional developer<br><br>⚡ Fun fact: I've been studying english since I was 5 y/o
 
 
-<!---
-PerrottaJulian/PerrottaJulian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juliannperrotta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/julian-perrotta-6b8250265) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PerrottaJulian&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PerrottaJulian&theme=catppuccin_mocha&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PerrottaJulian&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=PerrottaJulian&icon=5&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JulianPerrotta) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
