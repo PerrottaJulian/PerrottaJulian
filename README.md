@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ Currently working on the IT team of ESGA, Argentine Air Force<br><br>📚 On the middle of my IT carreer<br><br>🌱 Growing up as as professional developer<br><br>⚡ Fun fact: I've been studying english since I was 5 y/o
+🖥️ Currently working on the IT team of ESGA, Argentine Air Force<br><br>📚 On the middle of my IT carreer<br><br>🌱 Growing up as as professional developer<br><br>⚡ Fun fact: I've been studying english since I was 5
 
 
 ## 🌐 Socials:
